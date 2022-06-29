@@ -72,6 +72,10 @@ input, select, textarea {
 	appearance: none;
 }
 
+.nbh-font {
+	font-family: 'Quantico', sans-serif;
+}
+
 /* Basic */
 
 	@-ms-viewport {
